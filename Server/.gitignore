@@ -1,0 +1,22 @@
+#python git:(.gitignore)
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+build/
+dist/
+.eggs/
+*.egg-info/
+.idea/
+.vscode/
+.DS_Store
+*.log
+*.sqlite3
+temp/
+*.db
+*.sqlite
+*.bak
+*.swp
+*.tmp
